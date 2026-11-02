@@ -7,3 +7,5 @@ Downloads for Maeve's Games, learning games for a three-year-old.
 - **Voice sources** are under `voices/<name>/`: the MP3 clips and `manifest.json` for each downloadable voice. `make voice` in the game repo regenerates them, and `just voices` there zips them and uploads the changed packs.
 
 This repo sits next to the game repo, as `../maevegames-releases`, so the game repo's tools can find `voices/`.
+
+What changed in each version is in [CHANGELOG.md](CHANGELOG.md).
