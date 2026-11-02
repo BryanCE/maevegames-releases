@@ -1,0 +1,7 @@
+# Unfinished downloads from tools/genvoice in the game repo.
+*.tmp
+
+# OS clutter.
+.DS_Store
+Thumbs.db
+desktop.ini
