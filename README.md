@@ -1,3 +1,5 @@
+<p align="center"><img src="MaeveGames-Logo.png" alt="Maeve's Games" width="320"></p>
+
 # Maeve's Games releases
 
 Downloads for Maeve's Games, learning games for a three-year-old.
